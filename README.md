@@ -1,11 +1,11 @@
-![HoloEverywhere](https://github.com/Prototik/HoloEverywhere/raw/gh-pages/github-res/logo.png "HoloEverywhere")
-
-[![Build Status](https://travis-ci.org/Prototik/HoloEverywhere.png?branch=master)](https://travis-ci.org/Prototik/HoloEverywhere)
+![HoloEverywhere](https://github.com/Prototik/HoloEverywhere/raw/gh-pages/github-res/logo.png "HoloEverywhere")  
+[![Build Status](https://travis-ci.org/Prototik/HoloEverywhere.png?branch=master)](https://travis-ci.org/Prototik/HoloEverywhere)  
+Latest stable version: [2.1.0 Darkest Sunrise](https://github.com/Prototik/HoloEverywhere/releases/tag/v2.1.0)  
+Demo: [Stable][APKDemoStable] | [Latest][APKDemoLatest]  
+Issues: [Stable][APKIssuesStable] | [Latest][APKIssuesLatest]
 
 ## What is it?
-Bringing Holo Theme from Android 4.1 to 2.1 and above.
-## Links
-[![Demo APK](https://github.com/Prototik/HoloEverywhere/raw/gh-pages/github-res/demo_button.png)][Demo APK]  
+Bringing Holo Theme from Android 4.1 to 2.1 and above.  
 [![Donate](https://github.com/Prototik/HoloEverywhere/raw/gh-pages/github-res/donate_button.png)][Donate]
 
 ## How to use?
@@ -28,6 +28,7 @@ Bringing Holo Theme from Android 4.1 to 2.1 and above.
 ## Featured implementations
  * [Project Euler](https://play.google.com/store/apps/details?id=ie.cathalcoffey.android.projecteuler)
  * [TimeAct To-Do](https://play.google.com/store/apps/details?id=timeact.app.task.manager)
+ * [Day by Day](https://play.google.com/store/apps/details?id=ru.infteh.organizer.trial)
  * [UnixAdmin](https://play.google.com/store/apps/details?id=org.kidinov.unixadmin)
  * [AppSales. Best Apps on Sale](https://play.google.com/store/apps/details?id=net.tsapps.appsales)
  * [Meditation Assistant](https://play.google.com/store/apps/details?id=sh.ftp.rocketninelabs.meditationassistant)
@@ -35,14 +36,17 @@ Bringing Holo Theme from Android 4.1 to 2.1 and above.
  * [noodles - To Do List](https://play.google.com/store/apps/details?id=com.makeramen.noodles)
  * [otoMoto](https://play.google.com/store/apps/details?id=pl.otomoto)
  * [AndroidPIT](https://play.google.com/store/apps/details?id=de.androidpit.app)
+ * [Wrkout](https://play.google.com/store/apps/details?id=igordcard.tabatatrainer)
+ * [Schedule](https://play.google.com/store/apps/details?id=pl.project.schedule)
+ * [Extreme Fitness Tracker Free](https://play.google.com/store/apps/details?id=com.unifylog.droid90free)
 
-Write to [Sergey](mailto:prototypegamez@gmail.com) for add your application to this list.
+Write to [Sergey](mailto:me@prok.pw) for add your application to this list.
 
 ## Contact
 
 Sergey:
-  * [Email](mailto:prototypegamez@gmail.com "Send email to Sergey")
-  * [Google Plus](https://plus.google.com/103272077758668000975/posts "Google Plus")
+  * [Email](mailto:me@prok.pw "Send email to Sergey")
+  * [Google Plus](https://plus.google.com/108280481290883044647/posts "Google Plus")
   * [Habrahabr](http://habrahabr.ru/users/prototik/)
   
 Christophe:
@@ -51,7 +55,10 @@ Christophe:
 ## License
 MIT License, full text of license see [here][License]
 
-[Demo APK]: https://raw.github.com/Prototik/HoloEverywhere/repo/org/holoeverywhere/demo/2.1.0/demo-2.1.0.apk "Demo APK"
+[APKDemoStable]: http://holoeverywhere.cf/demo-stable.apk
+[APKDemoLatest]: http://holoeverywhere.cf/demo-latest.apk
+[APKIssuesStable]: http://holoeverywhere.cf/issues-stable.apk
+[APKIssuesLatest]: http://holoeverywhere.cf/issues-latest.apk
 [Donate]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X7E7U7HNR36YN&lc=US&item_name=HoloEverywhere&currency_code=USD&bn=PP%2dDonationsBF%3adonate_button%2epng%3aNonHosted "Donate"
 [Build with Maven]: https://github.com/Prototik/HoloEverywhere/wiki/Maven "Build with maven"
 [License]: https://raw.github.com/Prototik/HoloEverywhere/master/LICENSE "MIT License"
